@@ -1,9 +1,14 @@
 {
   "translations": [
     {
-      "Key": "etoroWebinarUploadSuccessToast.newsFeed",
-      "Text to translate": "NEWS FEED",
-      "Characters limits": 9
+      "Key": "etoroNewCmsFrontOnly3Rows.search",
+      "Text to translate": "Search",
+      "Characters limits": 6
+    },
+    {
+      "Key": "etoroNewCmsFrontOnly3Rows.cashAndHoldings",
+      "Text to translate": "Cash and holdings",
+      "Characters limits": 17
     }
   ]
 }
