@@ -1,0 +1,3413 @@
+{
+  "title": "\"TEST\"",
+  "figmaUrl": "\"https://www.figma.com/design/MKQifFS62duwsl9w9W2wF5/Home---Redesign?node-id=2590-58201&p=f&m=dev\"",
+  "figmaProjectId": "MKQifFS62duwsl9w9W2wF5",
+  "figmaNodeId": "2590-58201",
+  "frames": [
+    {
+      "nodeId": "2590:59736",
+      "name": "eToro_Market closed",
+      "translations": [
+        {
+          "id": "2590:59753",
+          "key": "etoroMarketClosed.45622.77May20",
+          "value": " $45,622.77 May 20",
+          "status": "figma-synced",
+          "charCount": 18
+        },
+        {
+          "id": "2590:59755",
+          "key": "etoroMarketClosed.hiElior",
+          "value": "Hi, Elior!",
+          "status": "figma-synced",
+          "charCount": 10
+        },
+        {
+          "id": "2590:59758",
+          "key": "etoroMarketClosed.tradingAccountValue",
+          "value": "Trading account value",
+          "status": "figma-synced",
+          "charCount": 21
+        },
+        {
+          "id": "2590:59761",
+          "key": "etoroMarketClosed.14287.3327.31Today",
+          "value": "14,287.33 (27.31%)  Today",
+          "status": "figma-synced",
+          "charCount": 25
+        },
+        {
+          "id": "2590:59763",
+          "key": "etoroMarketClosed.68229.77",
+          "value": "$68,229.77",
+          "status": "figma-synced",
+          "charCount": 10
+        },
+        {
+          "id": "2590:59818",
+          "key": "etoroMarketClosed.investEarn",
+          "value": "Invest & Earn!",
+          "status": "figma-synced",
+          "charCount": 14
+        },
+        {
+          "id": "2590:59819",
+          "key": "etoroMarketClosed.setupARecurringInvestmentAndGetUpTo5InterestOnYourBalance",
+          "value": "Setup a recurring investment and get up to 5% interest on your balance!",
+          "status": "figma-synced",
+          "charCount": 71
+        },
+        {
+          "id": "2590:59820",
+          "key": "etoroMarketClosed.13",
+          "value": "1/3",
+          "status": "figma-synced",
+          "charCount": 3
+        },
+        {
+          "id": "2590:59829",
+          "key": "etoroMarketClosed.indexesAreHigherOnContinuedStrengthAfterSoftJobsDataLastWeekRaisedRateCutHopes",
+          "value": "Indexes are higher on continued strength after soft jobs data last week raised rate cut hopes.",
+          "status": "figma-synced",
+          "charCount": 94
+        },
+        {
+          "id": "2590:59830",
+          "key": "etoroMarketClosed.mon06May2024153304",
+          "value": "Mon, 06 May 2024 15:33:04",
+          "status": "figma-synced",
+          "charCount": 25
+        },
+        {
+          "id": "2647:15669",
+          "key": "etoroMarketClosed.dow30",
+          "value": "DOW 30",
+          "status": "figma-synced",
+          "charCount": 6
+        },
+        {
+          "id": "2647:15670",
+          "key": "etoroMarketClosed.27847.66",
+          "value": "27,847.66",
+          "status": "figma-synced",
+          "charCount": 9
+        },
+        {
+          "id": "2647:15671",
+          "key": "etoroMarketClosed.2.20",
+          "value": "+2.20%",
+          "status": "figma-synced",
+          "charCount": 6
+        },
+        {
+          "id": "2647:15710",
+          "key": "etoroMarketClosed.sP500",
+          "value": "S&P 500",
+          "status": "figma-synced",
+          "charCount": 7
+        },
+        {
+          "id": "2647:15711",
+          "key": "etoroMarketClosed.11560.78",
+          "value": "11,560.78",
+          "status": "figma-synced",
+          "charCount": 9
+        },
+        {
+          "id": "2647:15712",
+          "key": "etoroMarketClosed.2.20",
+          "value": "+2.20%",
+          "status": "figma-synced",
+          "charCount": 6
+        },
+        {
+          "id": "2647:15751",
+          "key": "etoroMarketClosed.nasdaq",
+          "value": "NASDAQ",
+          "status": "figma-synced",
+          "charCount": 6
+        },
+        {
+          "id": "2647:15752",
+          "key": "etoroMarketClosed.21627.66",
+          "value": "21,627.66",
+          "status": "figma-synced",
+          "charCount": 9
+        },
+        {
+          "id": "2647:15753",
+          "key": "etoroMarketClosed.2.20",
+          "value": "+2.20%",
+          "status": "figma-synced",
+          "charCount": 6
+        },
+        {
+          "id": "2647:15792",
+          "key": "etoroMarketClosed.oil",
+          "value": "OIL",
+          "status": "figma-synced",
+          "charCount": 3
+        },
+        {
+          "id": "2647:15793",
+          "key": "etoroMarketClosed.11590.78",
+          "value": "11,590.78",
+          "status": "figma-synced",
+          "charCount": 9
+        },
+        {
+          "id": "2647:15794",
+          "key": "etoroMarketClosed.2.20",
+          "value": "+2.20%",
+          "status": "figma-synced",
+          "charCount": 6
+        },
+        {
+          "id": "2647:15833",
+          "key": "etoroMarketClosed.eurusd",
+          "value": "EURUSD",
+          "status": "figma-synced",
+          "charCount": 6
+        },
+        {
+          "id": "2647:15834",
+          "key": "etoroMarketClosed.1.19613",
+          "value": "1.19613",
+          "status": "figma-synced",
+          "charCount": 7
+        },
+        {
+          "id": "2647:15835",
+          "key": "etoroMarketClosed.0.16",
+          "value": "-0.16%",
+          "status": "figma-synced",
+          "charCount": 6
+        },
+        {
+          "id": "2590:59836",
+          "key": "etoroMarketClosed.myDailyTopGainers",
+          "value": "My Daily top Gainers",
+          "status": "figma-synced",
+          "charCount": 20
+        },
+        {
+          "id": "2590:59843",
+          "key": "etoroMarketClosed.basedOnPortfolioWatchlistRecent..",
+          "value": "Based on Portfolio, Watchlist & Recent...",
+          "status": "figma-synced",
+          "charCount": 41
+        },
+        {
+          "id": "2647:15044",
+          "key": "etoroMarketClosed.22.3",
+          "value": "22.3%",
+          "status": "figma-synced",
+          "charCount": 5
+        },
+        {
+          "id": "2647:15091",
+          "key": "etoroMarketClosed.msft",
+          "value": "MSFT",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2647:15150",
+          "key": "etoroMarketClosed.14.7",
+          "value": "14.7%",
+          "status": "figma-synced",
+          "charCount": 5
+        },
+        {
+          "id": "2647:15198",
+          "key": "etoroMarketClosed.amzn",
+          "value": "AMZN",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2647:15263",
+          "key": "etoroMarketClosed.8.7",
+          "value": "8.7%",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2647:15315",
+          "key": "etoroMarketClosed.spot",
+          "value": "SPOT",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2647:15381",
+          "key": "etoroMarketClosed.6.2",
+          "value": "6.2%",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2647:15426",
+          "key": "etoroMarketClosed.adbe",
+          "value": "ADBE",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2647:15481",
+          "key": "etoroMarketClosed.2.6",
+          "value": "2.6%",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2647:15529",
+          "key": "etoroMarketClosed.btc",
+          "value": "BTC",
+          "status": "figma-synced",
+          "charCount": 3
+        },
+        {
+          "id": "2647:14756",
+          "key": "etoroMarketClosed.whyIsItMoving",
+          "value": "Why is it moving?",
+          "status": "figma-synced",
+          "charCount": 17
+        },
+        {
+          "id": "2647:14508",
+          "key": "etoroMarketClosed.dailyRecap",
+          "value": "Daily Recap",
+          "status": "figma-synced",
+          "charCount": 11
+        },
+        {
+          "id": "2647:14513",
+          "key": "etoroMarketClosed.yourAiGeneratedMarketSummary",
+          "value": "Your AI generated market summary",
+          "status": "figma-synced",
+          "charCount": 32
+        },
+        {
+          "id": "2647:14603",
+          "key": "etoroMarketClosed.thePopularAssetsAreBeatingTheMarketThePopularAssetsAreBeatingTheMarketThePopularAssetsAreBeatingTheMarketThePopularAssetsAreBeatingTheMarket.ThePopularAssetsAreBeatingTheMarketThePopularAssetsAreBeatingTheMarket",
+          "value": "The popular assets are beating the market     The popular assets are beating the market     The popular assets are beating the market     The popular assets are beating the market .    The popular assets are beating the market     The popular assets are beating the market",
+          "status": "figma-synced",
+          "charCount": 272
+        },
+        {
+          "id": "2647:14519",
+          "key": "etoroMarketClosed.15Mar",
+          "value": "15 Mar",
+          "status": "figma-synced",
+          "charCount": 6
+        },
+        {
+          "id": "2647:14522",
+          "key": "etoroMarketClosed.0158",
+          "value": "01:58",
+          "status": "figma-synced",
+          "charCount": 5
+        },
+        {
+          "id": "2647:14462",
+          "key": "etoroMarketClosed.newsFeed",
+          "value": "News Feed",
+          "status": "figma-synced",
+          "charCount": 9
+        },
+        {
+          "id": "2590:59868",
+          "key": "etoroMarketClosed.13DaysAgo",
+          "value": "13 days ago",
+          "status": "figma-synced",
+          "charCount": 11
+        },
+        {
+          "id": "2590:59869",
+          "key": "etoroMarketClosed.unitedKingdom",
+          "value": "United Kingdom",
+          "status": "figma-synced",
+          "charCount": 14
+        },
+        {
+          "id": "2590:59871",
+          "key": "etoroMarketClosed.Davidr",
+          "value": "@Davidr",
+          "status": "figma-synced",
+          "charCount": 7
+        },
+        {
+          "id": "2590:59872",
+          "key": "etoroMarketClosed.hierLorsqueLeBtcTaitAuDessusDes20.000ToutLeMondeVousConseillerDeLAcheterEnClamantLeRetourDuBullrunEtDuFameuxPointBas17.800..",
+          "value": "Hier, lorsque le $BTC était au-dessus des 20.000$, tout le monde vous conseiller de l'acheter en clamant le retour du bullrun et du fameux point bas à 17.800$...",
+          "status": "figma-synced",
+          "charCount": 161
+        },
+        {
+          "id": "2590:59879",
+          "key": "etoroMarketClosed.13",
+          "value": "13",
+          "status": "figma-synced",
+          "charCount": 2
+        },
+        {
+          "id": "2590:59882",
+          "key": "etoroMarketClosed.6",
+          "value": "6",
+          "status": "figma-synced",
+          "charCount": 1
+        },
+        {
+          "id": "2590:59885",
+          "key": "etoroMarketClosed.3",
+          "value": "3",
+          "status": "figma-synced",
+          "charCount": 1
+        },
+        {
+          "id": "2590:59889",
+          "key": "etoroMarketClosed.comment",
+          "value": "Comment",
+          "status": "figma-synced",
+          "charCount": 7
+        },
+        {
+          "id": "2590:59890",
+          "key": "etoroMarketClosed.like",
+          "value": "Like",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2590:59891",
+          "key": "etoroMarketClosed.share",
+          "value": "Share",
+          "status": "figma-synced",
+          "charCount": 5
+        },
+        {
+          "id": "2590:59897",
+          "key": "etoroMarketClosed.2HoursAgo",
+          "value": "2 hours ago",
+          "status": "figma-synced",
+          "charCount": 11
+        },
+        {
+          "id": "2590:59898",
+          "key": "etoroMarketClosed.unitedKingdom",
+          "value": "United Kingdom",
+          "status": "figma-synced",
+          "charCount": 14
+        },
+        {
+          "id": "2590:59900",
+          "key": "etoroMarketClosed.Scmorton",
+          "value": "@Scmorton",
+          "status": "figma-synced",
+          "charCount": 9
+        },
+        {
+          "id": "2590:59901",
+          "key": "etoroMarketClosed.guyWeveReachedNextLevelBuyingFeverInU.sStock",
+          "value": "Guy, weve reached next-level buying fever \nin U.S stock!",
+          "status": "figma-synced",
+          "charCount": 56
+        },
+        {
+          "id": "2590:59909",
+          "key": "etoroMarketClosed.13",
+          "value": "13",
+          "status": "figma-synced",
+          "charCount": 2
+        },
+        {
+          "id": "2590:59912",
+          "key": "etoroMarketClosed.6",
+          "value": "6",
+          "status": "figma-synced",
+          "charCount": 1
+        },
+        {
+          "id": "2590:59915",
+          "key": "etoroMarketClosed.3",
+          "value": "3",
+          "status": "figma-synced",
+          "charCount": 1
+        },
+        {
+          "id": "2590:59919",
+          "key": "etoroMarketClosed.comment",
+          "value": "Comment",
+          "status": "figma-synced",
+          "charCount": 7
+        },
+        {
+          "id": "2590:59920",
+          "key": "etoroMarketClosed.like",
+          "value": "Like",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2590:59921",
+          "key": "etoroMarketClosed.share",
+          "value": "Share",
+          "status": "figma-synced",
+          "charCount": 5
+        },
+        {
+          "id": "2590:59929",
+          "key": "etoroMarketClosed.72",
+          "value": "72",
+          "status": "figma-synced",
+          "charCount": 2
+        },
+        {
+          "id": "2590:59930",
+          "key": "etoroMarketClosed.post",
+          "value": "POST",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2647:14429",
+          "key": "etoroMarketClosed.tesla",
+          "value": "TESLA",
+          "status": "figma-synced",
+          "charCount": 5
+        },
+        {
+          "id": "2590:59935",
+          "key": "etoroMarketClosed.tsla",
+          "value": "TSLA",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2590:59937",
+          "key": "etoroMarketClosed.0.05",
+          "value": "0.05%",
+          "status": "figma-synced",
+          "charCount": 5
+        },
+        {
+          "id": "2590:59942",
+          "key": "etoroMarketClosed.48",
+          "value": "48",
+          "status": "figma-synced",
+          "charCount": 2
+        },
+        {
+          "id": "2590:59943",
+          "key": "etoroMarketClosed.post",
+          "value": "POST",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2590:59948",
+          "key": "etoroMarketClosed.spot",
+          "value": "SPOT",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2590:59950",
+          "key": "etoroMarketClosed.0.07",
+          "value": "0.07%",
+          "status": "figma-synced",
+          "charCount": 5
+        },
+        {
+          "id": "2590:59955",
+          "key": "etoroMarketClosed.27",
+          "value": "27",
+          "status": "figma-synced",
+          "charCount": 2
+        },
+        {
+          "id": "2590:59956",
+          "key": "etoroMarketClosed.post",
+          "value": "POST",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2590:59961",
+          "key": "etoroMarketClosed.amzn",
+          "value": "AMZN",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2590:59963",
+          "key": "etoroMarketClosed.0.01",
+          "value": "0.01%",
+          "status": "figma-synced",
+          "charCount": 5
+        },
+        {
+          "id": "2590:59964",
+          "key": "etoroMarketClosed.trending",
+          "value": "Trending",
+          "status": "figma-synced",
+          "charCount": 8
+        },
+        {
+          "id": "2590:59967",
+          "key": "etoroMarketClosed.mightIntresedYou",
+          "value": "Might Intresed You",
+          "status": "figma-synced",
+          "charCount": 18
+        },
+        {
+          "id": "2590:59973",
+          "key": "etoroMarketClosed.aapl",
+          "value": "AAPL",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2590:59974",
+          "key": "etoroMarketClosed.appleInc",
+          "value": "Apple Inc.",
+          "status": "figma-synced",
+          "charCount": 10
+        },
+        {
+          "id": "2590:59976",
+          "key": "etoroMarketClosed.217.94",
+          "value": "217.94",
+          "status": "figma-synced",
+          "charCount": 6
+        },
+        {
+          "id": "2590:59978",
+          "key": "etoroMarketClosed.1.130.98",
+          "value": "1.13 (0.98%)",
+          "status": "figma-synced",
+          "charCount": 12
+        },
+        {
+          "id": "2590:59984",
+          "key": "etoroMarketClosed.adbe",
+          "value": "ADBE",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2590:59985",
+          "key": "etoroMarketClosed.adobeSystemsInc",
+          "value": "Adobe Systems inc",
+          "status": "figma-synced",
+          "charCount": 17
+        },
+        {
+          "id": "2590:59987",
+          "key": "etoroMarketClosed.470.08",
+          "value": "470.08",
+          "status": "figma-synced",
+          "charCount": 6
+        },
+        {
+          "id": "2590:59989",
+          "key": "etoroMarketClosed.8.031.52",
+          "value": "-8.03 (-1.52%)",
+          "status": "figma-synced",
+          "charCount": 14
+        },
+        {
+          "id": "2590:59995",
+          "key": "etoroMarketClosed.adbe",
+          "value": "ADBE",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2590:59996",
+          "key": "etoroMarketClosed.adobeSystemsInc",
+          "value": "Adobe Systems inc",
+          "status": "figma-synced",
+          "charCount": 17
+        },
+        {
+          "id": "2590:59998",
+          "key": "etoroMarketClosed.470.08",
+          "value": "470.08",
+          "status": "figma-synced",
+          "charCount": 6
+        },
+        {
+          "id": "2590:60000",
+          "key": "etoroMarketClosed.8.031.52",
+          "value": "-8.03 (-1.52%)",
+          "status": "figma-synced",
+          "charCount": 14
+        },
+        {
+          "id": "2590:60004",
+          "key": "etoroMarketClosed.marketEvents",
+          "value": "Market events",
+          "status": "figma-synced",
+          "charCount": 13
+        },
+        {
+          "id": "2590:60009",
+          "key": "etoroMarketClosed.nov",
+          "value": "NOV",
+          "status": "figma-synced",
+          "charCount": 3
+        },
+        {
+          "id": "2590:60010",
+          "key": "etoroMarketClosed.16",
+          "value": "16",
+          "status": "figma-synced",
+          "charCount": 2
+        },
+        {
+          "id": "2590:60011",
+          "key": "etoroMarketClosed.1600Gmt",
+          "value": "16:00 GMT\n",
+          "status": "figma-synced",
+          "charCount": 10
+        },
+        {
+          "id": "2590:60019",
+          "key": "etoroMarketClosed.fb",
+          "value": "FB",
+          "status": "figma-synced",
+          "charCount": 2
+        },
+        {
+          "id": "2590:60020",
+          "key": "etoroMarketClosed.facebookInc",
+          "value": "Facebook Inc.",
+          "status": "figma-synced",
+          "charCount": 13
+        },
+        {
+          "id": "2590:60022",
+          "key": "etoroMarketClosed.217.94",
+          "value": "217.94",
+          "status": "figma-synced",
+          "charCount": 6
+        },
+        {
+          "id": "2590:60025",
+          "key": "etoroMarketClosed.0.650.43",
+          "value": "0.65 (0.43%)",
+          "status": "figma-synced",
+          "charCount": 12
+        },
+        {
+          "id": "2647:14356",
+          "key": "etoroMarketClosed.reports",
+          "value": "Reports",
+          "status": "figma-synced",
+          "charCount": 7
+        },
+        {
+          "id": "2590:60028",
+          "key": "etoroMarketClosed.facebookReportsSecondQuarter2020Results",
+          "value": "Facebook Reports Second Quarter 2020 Results",
+          "status": "figma-synced",
+          "charCount": 44
+        },
+        {
+          "id": "2590:60033",
+          "key": "etoroMarketClosed.nov",
+          "value": "NOV",
+          "status": "figma-synced",
+          "charCount": 3
+        },
+        {
+          "id": "2590:60034",
+          "key": "etoroMarketClosed.16",
+          "value": "16",
+          "status": "figma-synced",
+          "charCount": 2
+        },
+        {
+          "id": "2590:60035",
+          "key": "etoroMarketClosed.1600Gmt",
+          "value": "16:00 GMT\n",
+          "status": "figma-synced",
+          "charCount": 10
+        },
+        {
+          "id": "2590:60043",
+          "key": "etoroMarketClosed.fb",
+          "value": "FB",
+          "status": "figma-synced",
+          "charCount": 2
+        },
+        {
+          "id": "2590:60044",
+          "key": "etoroMarketClosed.facebookInc",
+          "value": "Facebook Inc.",
+          "status": "figma-synced",
+          "charCount": 13
+        },
+        {
+          "id": "2590:60046",
+          "key": "etoroMarketClosed.217.94",
+          "value": "217.94",
+          "status": "figma-synced",
+          "charCount": 6
+        },
+        {
+          "id": "2590:60049",
+          "key": "etoroMarketClosed.0.650.43",
+          "value": "0.65 (0.43%)",
+          "status": "figma-synced",
+          "charCount": 12
+        },
+        {
+          "id": "2647:14344",
+          "key": "etoroMarketClosed.reports",
+          "value": "Reports",
+          "status": "figma-synced",
+          "charCount": 7
+        },
+        {
+          "id": "2590:60052",
+          "key": "etoroMarketClosed.facebookReportsSecondQuarter2020Results",
+          "value": "Facebook Reports Second Quarter 2020 Results",
+          "status": "figma-synced",
+          "charCount": 44
+        },
+        {
+          "id": "2590:60073",
+          "key": "etoroMarketClosed.7",
+          "value": "7",
+          "status": "figma-synced",
+          "charCount": 1
+        },
+        {
+          "id": "2647:14283",
+          "key": "etoroMarketClosed.home",
+          "value": "Home",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2647:14289",
+          "key": "etoroMarketClosed.watchlist",
+          "value": "Watchlist",
+          "status": "figma-synced",
+          "charCount": 9
+        },
+        {
+          "id": "2647:14300",
+          "key": "etoroMarketClosed.portfolio",
+          "value": "Portfolio",
+          "status": "figma-synced",
+          "charCount": 9
+        },
+        {
+          "id": "2647:14307",
+          "key": "etoroMarketClosed.discover",
+          "value": "Discover",
+          "status": "figma-synced",
+          "charCount": 8
+        },
+        {
+          "id": "2647:14311",
+          "key": "etoroMarketClosed.wallet",
+          "value": "Wallet",
+          "status": "figma-synced",
+          "charCount": 6
+        }
+      ],
+      "lastUpdate": "2025-09-17T10:10:03.811Z",
+      "imageUrl": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/e3dab868-e157-417f-81cc-b9740be20812"
+    },
+    {
+      "nodeId": "2647:15896",
+      "name": "eToro_New CMS front only (3 rows)",
+      "translations": [
+        {
+          "id": "2647:15910",
+          "key": "etoroNewCmsFrontOnly3Rows.search",
+          "value": "Search",
+          "status": "figma-synced",
+          "charCount": 6
+        },
+        {
+          "id": "2647:15916",
+          "key": "etoroNewCmsFrontOnly3Rows.7",
+          "value": "7",
+          "status": "figma-synced",
+          "charCount": 1
+        },
+        {
+          "id": "2647:15940",
+          "key": "etoroNewCmsFrontOnly3Rows.cashAndHoldings",
+          "value": "Cash and holdings",
+          "status": "figma-synced",
+          "charCount": 17
+        },
+        {
+          "id": "2647:15946",
+          "key": "etoroNewCmsFrontOnly3Rows",
+          "value": "$",
+          "status": "figma-synced",
+          "charCount": 1
+        },
+        {
+          "id": "2647:15947",
+          "key": "etoroNewCmsFrontOnly3Rows.68229.77",
+          "value": "68,229.77",
+          "status": "figma-synced",
+          "charCount": 9
+        },
+        {
+          "id": "2647:15952",
+          "key": "etoroNewCmsFrontOnly3Rows.14287.3328.93",
+          "value": "14,287.33 (28.93%) ",
+          "status": "figma-synced",
+          "charCount": 19
+        },
+        {
+          "id": "2647:15953",
+          "key": "etoroNewCmsFrontOnly3Rows.today",
+          "value": "Today",
+          "status": "figma-synced",
+          "charCount": 5
+        },
+        {
+          "id": "2647:15963",
+          "key": "etoroNewCmsFrontOnly3Rows.1w",
+          "value": "1W",
+          "status": "figma-synced",
+          "charCount": 2
+        },
+        {
+          "id": "2647:15966",
+          "key": "etoroNewCmsFrontOnly3Rows.1m",
+          "value": "1M",
+          "status": "figma-synced",
+          "charCount": 2
+        },
+        {
+          "id": "2647:15969",
+          "key": "etoroNewCmsFrontOnly3Rows.3m",
+          "value": "3M",
+          "status": "figma-synced",
+          "charCount": 2
+        },
+        {
+          "id": "2647:15972",
+          "key": "etoroNewCmsFrontOnly3Rows.6m",
+          "value": "6M",
+          "status": "figma-synced",
+          "charCount": 2
+        },
+        {
+          "id": "2647:15975",
+          "key": "etoroNewCmsFrontOnly3Rows.ytd",
+          "value": "YTD",
+          "status": "figma-synced",
+          "charCount": 3
+        },
+        {
+          "id": "2647:15978",
+          "key": "etoroNewCmsFrontOnly3Rows.1y",
+          "value": "1Y",
+          "status": "figma-synced",
+          "charCount": 2
+        },
+        {
+          "id": "2647:15982",
+          "key": "etoroNewCmsFrontOnly3Rows",
+          "value": "$",
+          "status": "figma-synced",
+          "charCount": 1
+        },
+        {
+          "id": "2647:15983",
+          "key": "etoroNewCmsFrontOnly3Rows.1783.23",
+          "value": "1,783.23",
+          "status": "figma-synced",
+          "charCount": 8
+        },
+        {
+          "id": "2647:15985",
+          "key": "etoroNewCmsFrontOnly3Rows.cashAvailable",
+          "value": "Cash Available",
+          "status": "figma-synced",
+          "charCount": 14
+        },
+        {
+          "id": "2647:15994",
+          "key": "etoroNewCmsFrontOnly3Rows.available",
+          "value": "Available",
+          "status": "figma-synced",
+          "charCount": 9
+        },
+        {
+          "id": "2647:15997",
+          "key": "etoroNewCmsFrontOnly3Rows.58229.77",
+          "value": "$58,229.77",
+          "status": "figma-synced",
+          "charCount": 10
+        },
+        {
+          "id": "2647:15999",
+          "key": "etoroNewCmsFrontOnly3Rows.Invested",
+          "value": " Invested",
+          "status": "figma-synced",
+          "charCount": 9
+        },
+        {
+          "id": "2647:16001",
+          "key": "etoroNewCmsFrontOnly3Rows.8251.38",
+          "value": "+$8,251.38",
+          "status": "figma-synced",
+          "charCount": 10
+        },
+        {
+          "id": "2647:16003",
+          "key": "etoroNewCmsFrontOnly3Rows.77267.43",
+          "value": "$77,267.43",
+          "status": "figma-synced",
+          "charCount": 10
+        },
+        {
+          "id": "2647:16005",
+          "key": "etoroNewCmsFrontOnly3Rows.CryptoWallet",
+          "value": " Crypto Wallet",
+          "status": "figma-synced",
+          "charCount": 14
+        },
+        {
+          "id": "2647:16008",
+          "key": "etoroNewCmsFrontOnly3Rows.10229.77",
+          "value": "$10,229.77",
+          "status": "figma-synced",
+          "charCount": 10
+        },
+        {
+          "id": "2647:16012",
+          "key": "etoroNewCmsFrontOnly3Rows.nsdq100",
+          "value": "NSDQ 100:",
+          "status": "figma-synced",
+          "charCount": 9
+        },
+        {
+          "id": "2647:16013",
+          "key": "etoroNewCmsFrontOnly3Rows.19035",
+          "value": "$19,035 ",
+          "status": "figma-synced",
+          "charCount": 8
+        },
+        {
+          "id": "2647:16018",
+          "key": "etoroNewCmsFrontOnly3Rows.0.03",
+          "value": "0.03%",
+          "status": "figma-synced",
+          "charCount": 5
+        },
+        {
+          "id": "2647:16022",
+          "key": "etoroNewCmsFrontOnly3Rows.sP100",
+          "value": "S&P 100:",
+          "status": "figma-synced",
+          "charCount": 8
+        },
+        {
+          "id": "2647:16023",
+          "key": "etoroNewCmsFrontOnly3Rows.5477",
+          "value": "$5,477 ",
+          "status": "figma-synced",
+          "charCount": 7
+        },
+        {
+          "id": "2647:16028",
+          "key": "etoroNewCmsFrontOnly3Rows.0.03",
+          "value": "0.03%",
+          "status": "figma-synced",
+          "charCount": 5
+        },
+        {
+          "id": "2647:16032",
+          "key": "etoroNewCmsFrontOnly3Rows.sP100",
+          "value": "S&P 100:",
+          "status": "figma-synced",
+          "charCount": 8
+        },
+        {
+          "id": "2647:16033",
+          "key": "etoroNewCmsFrontOnly3Rows.5477",
+          "value": "$5,477 ",
+          "status": "figma-synced",
+          "charCount": 7
+        },
+        {
+          "id": "2647:16038",
+          "key": "etoroNewCmsFrontOnly3Rows.0.03",
+          "value": "0.03%",
+          "status": "figma-synced",
+          "charCount": 5
+        },
+        {
+          "id": "2647:16310",
+          "key": "etoroNewCmsFrontOnly3Rows.upgradeClub",
+          "value": "Upgrade club",
+          "status": "figma-synced",
+          "charCount": 12
+        },
+        {
+          "id": "2647:16311",
+          "key": "etoroNewCmsFrontOnly3Rows.add4999ToUpgradeAndRyStartEnjoyingTheEtoroClubRtrExclusiveFeaturesMoreTextRt",
+          "value": "Add $4,999 to upgrade and ry start enjoying the etoro club rtr exclusive features! more text rt",
+          "status": "figma-synced",
+          "charCount": 95
+        },
+        {
+          "id": "2647:16412",
+          "key": "etoroNewCmsFrontOnly3Rows.upgradeClub",
+          "value": "Upgrade club",
+          "status": "figma-synced",
+          "charCount": 12
+        },
+        {
+          "id": "2647:16413",
+          "key": "etoroNewCmsFrontOnly3Rows.add4999ToUpgradeAndRyStartEnjoyingTheEtoroClubRtrExclusiveFeaturesMoreTextRt",
+          "value": "Add $4,999 to upgrade and ry start enjoying the etoro club rtr exclusive features! more text rt",
+          "status": "figma-synced",
+          "charCount": 95
+        }
+      ],
+      "lastUpdate": "2025-09-17T10:10:03.817Z",
+      "imageUrl": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/6094f3c7-fc54-417e-b824-049c8bbbf4cc"
+    },
+    {
+      "nodeId": "2647:17365",
+      "name": "eToro_Webinar upload -Success Toast",
+      "translations": [
+        {
+          "id": "2647:17414",
+          "key": "etoroWebinarUploadSuccessToast.returnYtd",
+          "value": "Return YTD",
+          "status": "figma-synced",
+          "charCount": 10
+        },
+        {
+          "id": "2647:17420",
+          "key": "etoroWebinarUploadSuccessToast.17.8",
+          "value": "-17.8%",
+          "status": "figma-synced",
+          "charCount": 6
+        },
+        {
+          "id": "2647:17422",
+          "key": "etoroWebinarUploadSuccessToast.return2y",
+          "value": "Return 2Y",
+          "status": "figma-synced",
+          "charCount": 9
+        },
+        {
+          "id": "2647:17428",
+          "key": "etoroWebinarUploadSuccessToast.32.36",
+          "value": "32.36",
+          "status": "figma-synced",
+          "charCount": 5
+        },
+        {
+          "id": "2647:17430",
+          "key": "etoroWebinarUploadSuccessToast.riskScore",
+          "value": "Risk Score",
+          "status": "figma-synced",
+          "charCount": 10
+        },
+        {
+          "id": "2647:17437",
+          "key": "etoroWebinarUploadSuccessToast.3",
+          "value": "3",
+          "status": "figma-synced",
+          "charCount": 1
+        },
+        {
+          "id": "2647:17440",
+          "key": "etoroWebinarUploadSuccessToast.newsFeed",
+          "value": "NEWS FEED",
+          "status": "figma-synced",
+          "charCount": 9
+        },
+        {
+          "id": "2647:17442",
+          "key": "etoroWebinarUploadSuccessToast.aSpike38.4OfInvestorsBoughtAmazonInTheLast24h",
+          "value": "A spike (+38.4%) of investors \nbought Amazon in the last 24H.",
+          "status": "figma-synced",
+          "charCount": 61
+        },
+        {
+          "id": "2647:17443",
+          "key": "etoroWebinarUploadSuccessToast.discover",
+          "value": "DISCOVER",
+          "status": "figma-synced",
+          "charCount": 8
+        },
+        {
+          "id": "2647:17447",
+          "key": "etoroWebinarUploadSuccessToast.buyAmzn",
+          "value": "Buy AMZN",
+          "status": "figma-synced",
+          "charCount": 8
+        },
+        {
+          "id": "2647:17453",
+          "key": "etoroWebinarUploadSuccessToast.home",
+          "value": "Home",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2647:17454",
+          "key": "etoroWebinarUploadSuccessToast.watchlist",
+          "value": "Watchlist",
+          "status": "figma-synced",
+          "charCount": 9
+        },
+        {
+          "id": "2647:17455",
+          "key": "etoroWebinarUploadSuccessToast.portfolio",
+          "value": "Portfolio",
+          "status": "figma-synced",
+          "charCount": 9
+        },
+        {
+          "id": "2647:17456",
+          "key": "etoroWebinarUploadSuccessToast.discover",
+          "value": "Discover",
+          "status": "figma-synced",
+          "charCount": 8
+        },
+        {
+          "id": "2647:17501",
+          "key": "etoroWebinarUploadSuccessToast.copyAmazonInvestors",
+          "value": "Copy Amazon Investors",
+          "status": "figma-synced",
+          "charCount": 21
+        },
+        {
+          "id": "2647:17509",
+          "key": "etoroWebinarUploadSuccessToast.copy",
+          "value": "Copy",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2647:17514",
+          "key": "etoroWebinarUploadSuccessToast.jessicaBale",
+          "value": "Jessica bale",
+          "status": "figma-synced",
+          "charCount": 12
+        },
+        {
+          "id": "2647:17515",
+          "key": "etoroWebinarUploadSuccessToast.Jessica",
+          "value": "@Jessica",
+          "status": "figma-synced",
+          "charCount": 8
+        },
+        {
+          "id": "2647:17516",
+          "key": "etoroWebinarUploadSuccessToast.22.34",
+          "value": "+22.34%",
+          "status": "figma-synced",
+          "charCount": 7
+        },
+        {
+          "id": "2647:17517",
+          "key": "etoroWebinarUploadSuccessToast.return12m",
+          "value": "Return (12M)",
+          "status": "figma-synced",
+          "charCount": 12
+        },
+        {
+          "id": "2647:17526",
+          "key": "etoroWebinarUploadSuccessToast.chrisFine",
+          "value": "Chris Fine",
+          "status": "figma-synced",
+          "charCount": 10
+        },
+        {
+          "id": "2647:17527",
+          "key": "etoroWebinarUploadSuccessToast.Chrisf",
+          "value": "@Chrisf",
+          "status": "figma-synced",
+          "charCount": 7
+        },
+        {
+          "id": "2647:17528",
+          "key": "etoroWebinarUploadSuccessToast.22.34",
+          "value": "+22.34%",
+          "status": "figma-synced",
+          "charCount": 7
+        },
+        {
+          "id": "2647:17529",
+          "key": "etoroWebinarUploadSuccessToast.return12m",
+          "value": "Return (12M)",
+          "status": "figma-synced",
+          "charCount": 12
+        },
+        {
+          "id": "2647:17532",
+          "key": "etoroWebinarUploadSuccessToast.copy",
+          "value": "Copy",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2647:17539",
+          "key": "etoroWebinarUploadSuccessToast.copy",
+          "value": "Copy",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2647:17544",
+          "key": "etoroWebinarUploadSuccessToast.moshe",
+          "value": "Moshe",
+          "status": "figma-synced",
+          "charCount": 5
+        },
+        {
+          "id": "2647:17545",
+          "key": "etoroWebinarUploadSuccessToast.Jessica",
+          "value": "@Jessica",
+          "status": "figma-synced",
+          "charCount": 8
+        },
+        {
+          "id": "2647:17546",
+          "key": "etoroWebinarUploadSuccessToast.22.34",
+          "value": "+22.34%",
+          "status": "figma-synced",
+          "charCount": 7
+        },
+        {
+          "id": "2647:17547",
+          "key": "etoroWebinarUploadSuccessToast.return12m",
+          "value": "Return (12M)",
+          "status": "figma-synced",
+          "charCount": 12
+        },
+        {
+          "id": "2647:17550",
+          "key": "etoroWebinarUploadSuccessToast.investorsTrend",
+          "value": "Investors Trend",
+          "status": "figma-synced",
+          "charCount": 15
+        },
+        {
+          "id": "2647:17551",
+          "key": "etoroWebinarUploadSuccessToast.etorianHoldingAmzn",
+          "value": "eTorian Holding AMZN  ",
+          "status": "figma-synced",
+          "charCount": 22
+        },
+        {
+          "id": "2647:17552",
+          "key": "etoroWebinarUploadSuccessToast.15.39",
+          "value": "15.39%  ",
+          "status": "figma-synced",
+          "charCount": 8
+        },
+        {
+          "id": "2647:17554",
+          "key": "etoroWebinarUploadSuccessToast.AnIncreaseOf0.29FromLastWeek",
+          "value": "    An Increase of     0.29% \n    From last week",
+          "status": "figma-synced",
+          "charCount": 48
+        },
+        {
+          "id": "2647:17567",
+          "key": "etoroWebinarUploadSuccessToast.10.5kFollowers",
+          "value": "10.5K Followers",
+          "status": "figma-synced",
+          "charCount": 15
+        },
+        {
+          "id": "2647:17569",
+          "key": "etoroWebinarUploadSuccessToast.aboutAmazon",
+          "value": "About Amazon",
+          "status": "figma-synced",
+          "charCount": 12
+        },
+        {
+          "id": "2647:17570",
+          "key": "etoroWebinarUploadSuccessToast.amazon.comIncIsAnAmericanMultinationalTechnologyCompanyBasedInSeattleWashingtonThatFocusesOnECommerceCloud...More",
+          "value": "Amazon.com, Inc  is an American multinational technology company based in Seattle, Washington that focuses on e-commerce, cloud... More",
+          "status": "figma-synced",
+          "charCount": 135
+        },
+        {
+          "id": "2647:17573",
+          "key": "etoroWebinarUploadSuccessToast.technology",
+          "value": "Technology",
+          "status": "figma-synced",
+          "charCount": 10
+        },
+        {
+          "id": "2647:17576",
+          "key": "etoroWebinarUploadSuccessToast.eCommerce",
+          "value": "E-Commerce",
+          "status": "figma-synced",
+          "charCount": 10
+        },
+        {
+          "id": "2647:17579",
+          "key": "etoroWebinarUploadSuccessToast.nasdaq",
+          "value": "Nasdaq",
+          "status": "figma-synced",
+          "charCount": 6
+        },
+        {
+          "id": "2647:17584",
+          "key": "etoroWebinarUploadSuccessToast.52",
+          "value": "52 \n",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2647:17585",
+          "key": "etoroWebinarUploadSuccessToast.articles",
+          "value": "ARTICLES",
+          "status": "figma-synced",
+          "charCount": 8
+        },
+        {
+          "id": "2647:17590",
+          "key": "etoroWebinarUploadSuccessToast.AnIncreaseOf0.29FromLastTradingDay",
+          "value": "    An Increase of      0.29% \n    From last trading day",
+          "status": "figma-synced",
+          "charCount": 56
+        },
+        {
+          "id": "2647:17607",
+          "key": "etoroWebinarUploadSuccessToast.34IncreaseComparedToLastWeek",
+          "value": "    34% Increase \ncompared to last week.",
+          "status": "figma-synced",
+          "charCount": 40
+        },
+        {
+          "id": "2647:17614",
+          "key": "etoroWebinarUploadSuccessToast.globalStocksReelOnGloomyFedOutlookAndFearsOfASecond",
+          "value": "Global stocks reel on gloomy Fed outlook and fears of a second ",
+          "status": "figma-synced",
+          "charCount": 63
+        },
+        {
+          "id": "2647:17615",
+          "key": "etoroWebinarUploadSuccessToast.2DaysAgo",
+          "value": "2 days ago",
+          "status": "figma-synced",
+          "charCount": 10
+        },
+        {
+          "id": "2647:17616",
+          "key": "etoroWebinarUploadSuccessToast.cnbc",
+          "value": "CNBC",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2647:17617",
+          "key": "etoroWebinarUploadSuccessToast.cnbc",
+          "value": "CNBC",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2647:17619",
+          "key": "etoroWebinarUploadSuccessToast.globalStocksReelOnGloomyFedOutlookAndFearsOfASecond",
+          "value": "Global stocks reel on gloomy Fed outlook and fears of a second ",
+          "status": "figma-synced",
+          "charCount": 63
+        },
+        {
+          "id": "2647:17620",
+          "key": "etoroWebinarUploadSuccessToast.2DaysAgo",
+          "value": "2 days ago",
+          "status": "figma-synced",
+          "charCount": 10
+        },
+        {
+          "id": "2647:17621",
+          "key": "etoroWebinarUploadSuccessToast.cnbc",
+          "value": "CNBC",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2647:17623",
+          "key": "etoroWebinarUploadSuccessToast.globalStocksReelOnGloomyFedOutlookAndFearsOfASecond",
+          "value": "Global stocks reel on gloomy Fed outlook and fears of a second ",
+          "status": "figma-synced",
+          "charCount": 63
+        },
+        {
+          "id": "2647:17624",
+          "key": "etoroWebinarUploadSuccessToast.2DaysAgo",
+          "value": "2 days ago",
+          "status": "figma-synced",
+          "charCount": 10
+        },
+        {
+          "id": "2647:17634",
+          "key": "etoroWebinarUploadSuccessToast.latestNews",
+          "value": "Latest News",
+          "status": "figma-synced",
+          "charCount": 11
+        },
+        {
+          "id": "2647:17639",
+          "key": "etoroWebinarUploadSuccessToast.poweredBy",
+          "value": "POWERED BY",
+          "status": "figma-synced",
+          "charCount": 10
+        },
+        {
+          "id": "2647:17804",
+          "key": "etoroWebinarUploadSuccessToast.basedOn39AnalystsOfferingRecommendationsForAmznInTheLast3Months",
+          "value": "Based on 39 analysts offering recommendations for AMZN in the last 3 months.",
+          "status": "figma-synced",
+          "charCount": 76
+        },
+        {
+          "id": "2647:17811",
+          "key": "etoroWebinarUploadSuccessToast.analysis",
+          "value": "Analysis",
+          "status": "figma-synced",
+          "charCount": 8
+        },
+        {
+          "id": "2647:17812",
+          "key": "etoroWebinarUploadSuccessToast.strongBuy",
+          "value": "Strong Buy",
+          "status": "figma-synced",
+          "charCount": 10
+        },
+        {
+          "id": "2647:17813",
+          "key": "etoroWebinarUploadSuccessToast.83",
+          "value": "83%",
+          "status": "figma-synced",
+          "charCount": 3
+        },
+        {
+          "id": "2647:17820",
+          "key": "etoroWebinarUploadSuccessToast.low",
+          "value": "Low",
+          "status": "figma-synced",
+          "charCount": 3
+        },
+        {
+          "id": "2647:17821",
+          "key": "etoroWebinarUploadSuccessToast.17",
+          "value": "17",
+          "status": "figma-synced",
+          "charCount": 2
+        },
+        {
+          "id": "2647:17825",
+          "key": "etoroWebinarUploadSuccessToast.esgScore",
+          "value": "ESG Score\n",
+          "status": "figma-synced",
+          "charCount": 10
+        },
+        {
+          "id": "2647:17826",
+          "key": "etoroWebinarUploadSuccessToast.totalEnvironmentSocialAndGovernanceEsgRiskRatingsScoreOfAmznIs17",
+          "value": "Total Environment, Social and Governance (ESG) Risk Ratings\nscore of AMZN is 17.",
+          "status": "figma-synced",
+          "charCount": 80
+        },
+        {
+          "id": "2647:17827",
+          "key": "etoroWebinarUploadSuccessToast.esgDataProvidedBySustainalytics",
+          "value": "ESG data provided by Sustainalytics.\n",
+          "status": "figma-synced",
+          "charCount": 37
+        },
+        {
+          "id": "2647:17842",
+          "key": "etoroWebinarUploadSuccessToast.q22021",
+          "value": "Q2\n2021",
+          "status": "figma-synced",
+          "charCount": 7
+        },
+        {
+          "id": "2647:17843",
+          "key": "etoroWebinarUploadSuccessToast.q42021",
+          "value": "Q4\n2021",
+          "status": "figma-synced",
+          "charCount": 7
+        },
+        {
+          "id": "2647:17844",
+          "key": "etoroWebinarUploadSuccessToast.q32021",
+          "value": "Q3\n2021",
+          "status": "figma-synced",
+          "charCount": 7
+        },
+        {
+          "id": "2647:17847",
+          "key": "etoroWebinarUploadSuccessToast.miss",
+          "value": "Miss",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2647:17851",
+          "key": "etoroWebinarUploadSuccessToast.beat",
+          "value": "Beat",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2647:17853",
+          "key": "etoroWebinarUploadSuccessToast.q12021",
+          "value": "Q1\n2021",
+          "status": "figma-synced",
+          "charCount": 7
+        },
+        {
+          "id": "2647:17856",
+          "key": "etoroWebinarUploadSuccessToast.beat",
+          "value": "Beat",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2647:17858",
+          "key": "etoroWebinarUploadSuccessToast.75b",
+          "value": "75B",
+          "status": "figma-synced",
+          "charCount": 3
+        },
+        {
+          "id": "2647:17859",
+          "key": "etoroWebinarUploadSuccessToast.125b",
+          "value": "125B",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2647:17860",
+          "key": "etoroWebinarUploadSuccessToast.25b",
+          "value": "25B",
+          "status": "figma-synced",
+          "charCount": 3
+        },
+        {
+          "id": "2647:17861",
+          "key": "etoroWebinarUploadSuccessToast.5b",
+          "value": "5B",
+          "status": "figma-synced",
+          "charCount": 2
+        },
+        {
+          "id": "2647:17863",
+          "key": "etoroWebinarUploadSuccessToast.earnings",
+          "value": "Earnings",
+          "status": "figma-synced",
+          "charCount": 8
+        },
+        {
+          "id": "2647:17865",
+          "key": "etoroWebinarUploadSuccessToast.Est.Revenues",
+          "value": " EST . REVENUES",
+          "status": "figma-synced",
+          "charCount": 15
+        },
+        {
+          "id": "2647:17868",
+          "key": "etoroWebinarUploadSuccessToast.actualRevenues",
+          "value": "ACTUAL REVENUES",
+          "status": "figma-synced",
+          "charCount": 15
+        },
+        {
+          "id": "2647:17874",
+          "key": "etoroWebinarUploadSuccessToast.nextEarnings",
+          "value": "Next Earnings",
+          "status": "figma-synced",
+          "charCount": 13
+        },
+        {
+          "id": "2647:17875",
+          "key": "etoroWebinarUploadSuccessToast.16November2021",
+          "value": "16 November, 2021",
+          "status": "figma-synced",
+          "charCount": 17
+        },
+        {
+          "id": "2647:17879",
+          "key": "etoroWebinarUploadSuccessToast.est.Revenues",
+          "value": "Est. Revenues \n",
+          "status": "figma-synced",
+          "charCount": 15
+        },
+        {
+          "id": "2647:17880",
+          "key": "etoroWebinarUploadSuccessToast.121b",
+          "value": "$121B",
+          "status": "figma-synced",
+          "charCount": 5
+        },
+        {
+          "id": "2647:17881",
+          "key": "etoroWebinarUploadSuccessToast.est.Eps",
+          "value": "Est. EPS \n",
+          "status": "figma-synced",
+          "charCount": 10
+        },
+        {
+          "id": "2647:17882",
+          "key": "etoroWebinarUploadSuccessToast.121b",
+          "value": "$121B",
+          "status": "figma-synced",
+          "charCount": 5
+        },
+        {
+          "id": "2647:17893",
+          "key": "etoroWebinarUploadSuccessToast.moreECommerce",
+          "value": "More E-commerce",
+          "status": "figma-synced",
+          "charCount": 15
+        },
+        {
+          "id": "2647:17916",
+          "key": "etoroWebinarUploadSuccessToast.adbe",
+          "value": "ADBE",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2647:17917",
+          "key": "etoroWebinarUploadSuccessToast.adobeSystemsInc",
+          "value": "Adobe Systems inc",
+          "status": "figma-synced",
+          "charCount": 17
+        },
+        {
+          "id": "2647:17918",
+          "key": "etoroWebinarUploadSuccessToast.470.08",
+          "value": "470.08",
+          "status": "figma-synced",
+          "charCount": 6
+        },
+        {
+          "id": "2647:17919",
+          "key": "etoroWebinarUploadSuccessToast.8.031.52",
+          "value": "-8.03 (-1.52%)",
+          "status": "figma-synced",
+          "charCount": 14
+        },
+        {
+          "id": "2647:17940",
+          "key": "etoroWebinarUploadSuccessToast.aapl",
+          "value": "AAPL",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2647:17941",
+          "key": "etoroWebinarUploadSuccessToast.appleInc",
+          "value": "Apple Inc",
+          "status": "figma-synced",
+          "charCount": 9
+        },
+        {
+          "id": "2647:17942",
+          "key": "etoroWebinarUploadSuccessToast.116.18",
+          "value": "116.18",
+          "status": "figma-synced",
+          "charCount": 6
+        },
+        {
+          "id": "2647:17943",
+          "key": "etoroWebinarUploadSuccessToast.1.130.98",
+          "value": "1.13 (0.98%)",
+          "status": "figma-synced",
+          "charCount": 12
+        },
+        {
+          "id": "2647:17964",
+          "key": "etoroWebinarUploadSuccessToast.aapl",
+          "value": "AAPL",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2647:17965",
+          "key": "etoroWebinarUploadSuccessToast.appleInc",
+          "value": "Apple Inc",
+          "status": "figma-synced",
+          "charCount": 9
+        },
+        {
+          "id": "2647:17966",
+          "key": "etoroWebinarUploadSuccessToast.116.18",
+          "value": "116.18",
+          "status": "figma-synced",
+          "charCount": 6
+        },
+        {
+          "id": "2647:17967",
+          "key": "etoroWebinarUploadSuccessToast.1.130.98",
+          "value": "1.13 (0.98%)",
+          "status": "figma-synced",
+          "charCount": 12
+        },
+        {
+          "id": "2647:17978",
+          "key": "etoroWebinarUploadSuccessToast.12",
+          "value": "12",
+          "status": "figma-synced",
+          "charCount": 2
+        },
+        {
+          "id": "2647:17979",
+          "key": "etoroWebinarUploadSuccessToast.3",
+          "value": "3",
+          "status": "figma-synced",
+          "charCount": 1
+        },
+        {
+          "id": "2647:17981",
+          "key": "etoroWebinarUploadSuccessToast.23",
+          "value": "23",
+          "status": "figma-synced",
+          "charCount": 2
+        },
+        {
+          "id": "2647:17983",
+          "key": "etoroWebinarUploadSuccessToast.comment",
+          "value": "Comment",
+          "status": "figma-synced",
+          "charCount": 7
+        },
+        {
+          "id": "2647:17984",
+          "key": "etoroWebinarUploadSuccessToast.like",
+          "value": "Like",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2647:17985",
+          "key": "etoroWebinarUploadSuccessToast.share",
+          "value": "Share",
+          "status": "figma-synced",
+          "charCount": 5
+        },
+        {
+          "id": "2647:17992",
+          "key": "etoroWebinarUploadSuccessToast.Davidgun",
+          "value": "@Davidgun",
+          "status": "figma-synced",
+          "charCount": 9
+        },
+        {
+          "id": "2647:17993",
+          "key": "etoroWebinarUploadSuccessToast.germany",
+          "value": "Germany",
+          "status": "figma-synced",
+          "charCount": 7
+        },
+        {
+          "id": "2647:17995",
+          "key": "etoroWebinarUploadSuccessToast.13DaysAgo",
+          "value": "13 days ago",
+          "status": "figma-synced",
+          "charCount": 11
+        },
+        {
+          "id": "2647:17996",
+          "key": "etoroWebinarUploadSuccessToast.atLeastWeKnowWhatIsHappeningCheckThisOut",
+          "value": "At least we know what is happening… \ncheck this out 👇",
+          "status": "figma-synced",
+          "charCount": 54
+        },
+        {
+          "id": "2647:17998",
+          "key": "etoroWebinarUploadSuccessToast.www.wsj.com",
+          "value": "www.wsj.com",
+          "status": "figma-synced",
+          "charCount": 11
+        },
+        {
+          "id": "2647:17999",
+          "key": "etoroWebinarUploadSuccessToast.theRealReasonForTheStockMarketS2PlungeShouldnTSurpriseYouAndItHappensEveryTime",
+          "value": "The real reason for the stock market’s 2% plunge shouldn’t surprise you — and it happens every time",
+          "status": "figma-synced",
+          "charCount": 99
+        },
+        {
+          "id": "2647:18000",
+          "key": "etoroWebinarUploadSuccessToast.amazonDrops2AfterRecall",
+          "value": "Amazon drops 2% after recall",
+          "status": "figma-synced",
+          "charCount": 28
+        },
+        {
+          "id": "2647:18023",
+          "key": "etoroWebinarUploadSuccessToast.Scmorton",
+          "value": "@Scmorton",
+          "status": "figma-synced",
+          "charCount": 9
+        },
+        {
+          "id": "2647:18024",
+          "key": "etoroWebinarUploadSuccessToast.unitedKingdom",
+          "value": "United Kingdom",
+          "status": "figma-synced",
+          "charCount": 14
+        },
+        {
+          "id": "2647:18026",
+          "key": "etoroWebinarUploadSuccessToast.2HoursAgo",
+          "value": "2 hours ago",
+          "status": "figma-synced",
+          "charCount": 11
+        },
+        {
+          "id": "2647:18027",
+          "key": "etoroWebinarUploadSuccessToast.guyWeveReachedNextLevelBuyingFeverInU.sStock",
+          "value": "Guy, weve reached next-level buying fever \nin U.S stock!",
+          "status": "figma-synced",
+          "charCount": 56
+        },
+        {
+          "id": "2647:18032",
+          "key": "etoroWebinarUploadSuccessToast.12",
+          "value": "12",
+          "status": "figma-synced",
+          "charCount": 2
+        },
+        {
+          "id": "2647:18033",
+          "key": "etoroWebinarUploadSuccessToast.3",
+          "value": "3",
+          "status": "figma-synced",
+          "charCount": 1
+        },
+        {
+          "id": "2647:18035",
+          "key": "etoroWebinarUploadSuccessToast.23",
+          "value": "23",
+          "status": "figma-synced",
+          "charCount": 2
+        },
+        {
+          "id": "2647:18037",
+          "key": "etoroWebinarUploadSuccessToast.comment",
+          "value": "Comment",
+          "status": "figma-synced",
+          "charCount": 7
+        },
+        {
+          "id": "2647:18038",
+          "key": "etoroWebinarUploadSuccessToast.like",
+          "value": "Like",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2647:18039",
+          "key": "etoroWebinarUploadSuccessToast.share",
+          "value": "Share",
+          "status": "figma-synced",
+          "charCount": 5
+        },
+        {
+          "id": "2647:18042",
+          "key": "etoroWebinarUploadSuccessToast.performance",
+          "value": "Performance",
+          "status": "figma-synced",
+          "charCount": 11
+        },
+        {
+          "id": "2647:18045",
+          "key": "etoroWebinarUploadSuccessToast.all",
+          "value": "All",
+          "status": "figma-synced",
+          "charCount": 3
+        },
+        {
+          "id": "2647:18049",
+          "key": "etoroWebinarUploadSuccessToast.0",
+          "value": "0%",
+          "status": "figma-synced",
+          "charCount": 2
+        },
+        {
+          "id": "2647:18050",
+          "key": "etoroWebinarUploadSuccessToast.10.5",
+          "value": "10.5%",
+          "status": "figma-synced",
+          "charCount": 5
+        },
+        {
+          "id": "2647:18051",
+          "key": "etoroWebinarUploadSuccessToast.10.5",
+          "value": "-10.5%",
+          "status": "figma-synced",
+          "charCount": 6
+        },
+        {
+          "id": "2647:18053",
+          "key": "etoroWebinarUploadSuccessToast.13",
+          "value": "13’",
+          "status": "figma-synced",
+          "charCount": 3
+        },
+        {
+          "id": "2647:18054",
+          "key": "etoroWebinarUploadSuccessToast.14",
+          "value": "14’",
+          "status": "figma-synced",
+          "charCount": 3
+        },
+        {
+          "id": "2647:18055",
+          "key": "etoroWebinarUploadSuccessToast.15",
+          "value": "15’",
+          "status": "figma-synced",
+          "charCount": 3
+        },
+        {
+          "id": "2647:18056",
+          "key": "etoroWebinarUploadSuccessToast.16",
+          "value": "16’",
+          "status": "figma-synced",
+          "charCount": 3
+        },
+        {
+          "id": "2647:18057",
+          "key": "etoroWebinarUploadSuccessToast.17",
+          "value": "17’",
+          "status": "figma-synced",
+          "charCount": 3
+        },
+        {
+          "id": "2647:18058",
+          "key": "etoroWebinarUploadSuccessToast.18",
+          "value": "18’",
+          "status": "figma-synced",
+          "charCount": 3
+        },
+        {
+          "id": "2647:18059",
+          "key": "etoroWebinarUploadSuccessToast.19",
+          "value": "19’",
+          "status": "figma-synced",
+          "charCount": 3
+        },
+        {
+          "id": "2647:18060",
+          "key": "etoroWebinarUploadSuccessToast.20",
+          "value": "20’",
+          "status": "figma-synced",
+          "charCount": 3
+        },
+        {
+          "id": "2647:18061",
+          "key": "etoroWebinarUploadSuccessToast.21",
+          "value": "21’",
+          "status": "figma-synced",
+          "charCount": 3
+        },
+        {
+          "id": "2647:18062",
+          "key": "etoroWebinarUploadSuccessToast.22",
+          "value": "22’",
+          "status": "figma-synced",
+          "charCount": 3
+        },
+        {
+          "id": "2647:18119",
+          "key": "etoroWebinarUploadSuccessToast.upcomingLiveEvents",
+          "value": "Upcoming Live Events",
+          "status": "figma-synced",
+          "charCount": 20
+        },
+        {
+          "id": "2647:18121",
+          "key": "etoroWebinarUploadSuccessToast.new",
+          "value": "New",
+          "status": "figma-synced",
+          "charCount": 3
+        },
+        {
+          "id": "2647:18133",
+          "key": "etoroWebinarUploadSuccessToast.johnDoe",
+          "value": "John Doe",
+          "status": "figma-synced",
+          "charCount": 8
+        },
+        {
+          "id": "2647:18135",
+          "key": "etoroWebinarUploadSuccessToast.futureTrendsToWatchInTheWorldOfCryptocurrency",
+          "value": "Future Trends to Watch in the\nWorld of Cryptocurrency",
+          "status": "figma-synced",
+          "charCount": 53
+        },
+        {
+          "id": "2647:18139",
+          "key": "etoroWebinarUploadSuccessToast.riskManagement",
+          "value": "Risk Management",
+          "status": "figma-synced",
+          "charCount": 15
+        },
+        {
+          "id": "2647:18141",
+          "key": "etoroWebinarUploadSuccessToast.english",
+          "value": "English",
+          "status": "figma-synced",
+          "charCount": 7
+        },
+        {
+          "id": "2647:18144",
+          "key": "etoroWebinarUploadSuccessToast.in5Days",
+          "value": "In 5 Days",
+          "status": "figma-synced",
+          "charCount": 9
+        },
+        {
+          "id": "2647:18153",
+          "key": "etoroWebinarUploadSuccessToast.nov15Wednesday",
+          "value": "Nov 15, Wednesday",
+          "status": "figma-synced",
+          "charCount": 17
+        },
+        {
+          "id": "2647:18157",
+          "key": "etoroWebinarUploadSuccessToast.11Am45Min",
+          "value": "11 AM (45 Min) ",
+          "status": "figma-synced",
+          "charCount": 15
+        },
+        {
+          "id": "2647:18160",
+          "key": "etoroWebinarUploadSuccessToast.share",
+          "value": "Share",
+          "status": "figma-synced",
+          "charCount": 5
+        },
+        {
+          "id": "2647:18171",
+          "key": "etoroWebinarUploadSuccessToast.aboutMelissab",
+          "value": "About Melissab",
+          "status": "figma-synced",
+          "charCount": 14
+        },
+        {
+          "id": "2647:18176",
+          "key": "etoroWebinarUploadSuccessToast.edit",
+          "value": "Edit",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2647:18179",
+          "key": "etoroWebinarUploadSuccessToast.unitedKingdom",
+          "value": "United Kingdom",
+          "status": "figma-synced",
+          "charCount": 14
+        },
+        {
+          "id": "2647:18186",
+          "key": "etoroWebinarUploadSuccessToast.videoBio",
+          "value": "Video Bio",
+          "status": "figma-synced",
+          "charCount": 9
+        },
+        {
+          "id": "2647:18188",
+          "key": "etoroWebinarUploadSuccessToast.new",
+          "value": "New",
+          "status": "figma-synced",
+          "charCount": 3
+        },
+        {
+          "id": "2647:18189",
+          "key": "etoroWebinarUploadSuccessToast.showPotentialCopiersWhoYouAreAndHighlightYourQualificationsWithAVideoBio",
+          "value": "Show potential copiers who you are and highlight your qualifications with a video bio.",
+          "status": "figma-synced",
+          "charCount": 86
+        },
+        {
+          "id": "2647:18194",
+          "key": "etoroWebinarUploadSuccessToast.addAVideo",
+          "value": "Add a Video",
+          "status": "figma-synced",
+          "charCount": 11
+        },
+        {
+          "id": "2647:18198",
+          "key": "etoroWebinarUploadSuccessToast.popularInvestorAveraging21P.a.Since2018",
+          "value": "Popular Investor averaging 21% p.a. since 2018",
+          "status": "figma-synced",
+          "charCount": 46
+        },
+        {
+          "id": "2647:18199",
+          "key": "etoroWebinarUploadSuccessToast.showFullBio",
+          "value": "Show Full Bio",
+          "status": "figma-synced",
+          "charCount": 13
+        },
+        {
+          "id": "2647:18206",
+          "key": "etoroWebinarUploadSuccessToast.Itsmaor",
+          "value": "@Itsmaor",
+          "status": "figma-synced",
+          "charCount": 8
+        },
+        {
+          "id": "2647:18213",
+          "key": "etoroWebinarUploadSuccessToast.Itsmaor",
+          "value": "@Itsmaor",
+          "status": "figma-synced",
+          "charCount": 8
+        },
+        {
+          "id": "2647:18219",
+          "key": "etoroWebinarUploadSuccessToast.55k",
+          "value": "55k",
+          "status": "figma-synced",
+          "charCount": 3
+        },
+        {
+          "id": "2647:18220",
+          "key": "etoroWebinarUploadSuccessToast.copiers",
+          "value": "Copiers",
+          "status": "figma-synced",
+          "charCount": 7
+        },
+        {
+          "id": "2647:18224",
+          "key": "etoroWebinarUploadSuccessToast.155.8k",
+          "value": "155.8k",
+          "status": "figma-synced",
+          "charCount": 6
+        },
+        {
+          "id": "2647:18225",
+          "key": "etoroWebinarUploadSuccessToast.followers",
+          "value": "Followers",
+          "status": "figma-synced",
+          "charCount": 9
+        },
+        {
+          "id": "2647:19157",
+          "key": "etoroWebinarUploadSuccessToast.returnYtd",
+          "value": "Return YTD",
+          "status": "figma-synced",
+          "charCount": 10
+        },
+        {
+          "id": "2647:19163",
+          "key": "etoroWebinarUploadSuccessToast.17.8",
+          "value": "-17.8%",
+          "status": "figma-synced",
+          "charCount": 6
+        },
+        {
+          "id": "2647:19165",
+          "key": "etoroWebinarUploadSuccessToast.return2y",
+          "value": "Return 2Y",
+          "status": "figma-synced",
+          "charCount": 9
+        },
+        {
+          "id": "2647:19171",
+          "key": "etoroWebinarUploadSuccessToast.32.36",
+          "value": "32.36",
+          "status": "figma-synced",
+          "charCount": 5
+        },
+        {
+          "id": "2647:19173",
+          "key": "etoroWebinarUploadSuccessToast.riskScore",
+          "value": "Risk Score",
+          "status": "figma-synced",
+          "charCount": 10
+        },
+        {
+          "id": "2647:19180",
+          "key": "etoroWebinarUploadSuccessToast.3",
+          "value": "3",
+          "status": "figma-synced",
+          "charCount": 1
+        },
+        {
+          "id": "2647:19183",
+          "key": "etoroWebinarUploadSuccessToast.newsFeed",
+          "value": "NEWS FEED",
+          "status": "figma-synced",
+          "charCount": 9
+        },
+        {
+          "id": "2647:19185",
+          "key": "etoroWebinarUploadSuccessToast.aSpike38.4OfInvestorsBoughtAmazonInTheLast24h",
+          "value": "A spike (+38.4%) of investors \nbought Amazon in the last 24H.",
+          "status": "figma-synced",
+          "charCount": 61
+        },
+        {
+          "id": "2647:19186",
+          "key": "etoroWebinarUploadSuccessToast.discover",
+          "value": "DISCOVER",
+          "status": "figma-synced",
+          "charCount": 8
+        },
+        {
+          "id": "2647:19190",
+          "key": "etoroWebinarUploadSuccessToast.buyAmzn",
+          "value": "Buy AMZN",
+          "status": "figma-synced",
+          "charCount": 8
+        },
+        {
+          "id": "2647:19196",
+          "key": "etoroWebinarUploadSuccessToast.home",
+          "value": "Home",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2647:19197",
+          "key": "etoroWebinarUploadSuccessToast.watchlist",
+          "value": "Watchlist",
+          "status": "figma-synced",
+          "charCount": 9
+        },
+        {
+          "id": "2647:19198",
+          "key": "etoroWebinarUploadSuccessToast.portfolio",
+          "value": "Portfolio",
+          "status": "figma-synced",
+          "charCount": 9
+        },
+        {
+          "id": "2647:19199",
+          "key": "etoroWebinarUploadSuccessToast.discover",
+          "value": "Discover",
+          "status": "figma-synced",
+          "charCount": 8
+        },
+        {
+          "id": "2647:19244",
+          "key": "etoroWebinarUploadSuccessToast.copyAmazonInvestors",
+          "value": "Copy Amazon Investors",
+          "status": "figma-synced",
+          "charCount": 21
+        },
+        {
+          "id": "2647:19252",
+          "key": "etoroWebinarUploadSuccessToast.copy",
+          "value": "Copy",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2647:19257",
+          "key": "etoroWebinarUploadSuccessToast.jessicaBale",
+          "value": "Jessica bale",
+          "status": "figma-synced",
+          "charCount": 12
+        },
+        {
+          "id": "2647:19258",
+          "key": "etoroWebinarUploadSuccessToast.Jessica",
+          "value": "@Jessica",
+          "status": "figma-synced",
+          "charCount": 8
+        },
+        {
+          "id": "2647:19259",
+          "key": "etoroWebinarUploadSuccessToast.22.34",
+          "value": "+22.34%",
+          "status": "figma-synced",
+          "charCount": 7
+        },
+        {
+          "id": "2647:19260",
+          "key": "etoroWebinarUploadSuccessToast.return12m",
+          "value": "Return (12M)",
+          "status": "figma-synced",
+          "charCount": 12
+        },
+        {
+          "id": "2647:19269",
+          "key": "etoroWebinarUploadSuccessToast.chrisFine",
+          "value": "Chris Fine",
+          "status": "figma-synced",
+          "charCount": 10
+        },
+        {
+          "id": "2647:19270",
+          "key": "etoroWebinarUploadSuccessToast.Chrisf",
+          "value": "@Chrisf",
+          "status": "figma-synced",
+          "charCount": 7
+        },
+        {
+          "id": "2647:19271",
+          "key": "etoroWebinarUploadSuccessToast.22.34",
+          "value": "+22.34%",
+          "status": "figma-synced",
+          "charCount": 7
+        },
+        {
+          "id": "2647:19272",
+          "key": "etoroWebinarUploadSuccessToast.return12m",
+          "value": "Return (12M)",
+          "status": "figma-synced",
+          "charCount": 12
+        },
+        {
+          "id": "2647:19275",
+          "key": "etoroWebinarUploadSuccessToast.copy",
+          "value": "Copy",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2647:19282",
+          "key": "etoroWebinarUploadSuccessToast.copy",
+          "value": "Copy",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2647:19287",
+          "key": "etoroWebinarUploadSuccessToast.moshe",
+          "value": "Moshe",
+          "status": "figma-synced",
+          "charCount": 5
+        },
+        {
+          "id": "2647:19288",
+          "key": "etoroWebinarUploadSuccessToast.Jessica",
+          "value": "@Jessica",
+          "status": "figma-synced",
+          "charCount": 8
+        },
+        {
+          "id": "2647:19289",
+          "key": "etoroWebinarUploadSuccessToast.22.34",
+          "value": "+22.34%",
+          "status": "figma-synced",
+          "charCount": 7
+        },
+        {
+          "id": "2647:19290",
+          "key": "etoroWebinarUploadSuccessToast.return12m",
+          "value": "Return (12M)",
+          "status": "figma-synced",
+          "charCount": 12
+        },
+        {
+          "id": "2647:19293",
+          "key": "etoroWebinarUploadSuccessToast.investorsTrend",
+          "value": "Investors Trend",
+          "status": "figma-synced",
+          "charCount": 15
+        },
+        {
+          "id": "2647:19294",
+          "key": "etoroWebinarUploadSuccessToast.etorianHoldingAmzn",
+          "value": "eTorian Holding AMZN  ",
+          "status": "figma-synced",
+          "charCount": 22
+        },
+        {
+          "id": "2647:19295",
+          "key": "etoroWebinarUploadSuccessToast.15.39",
+          "value": "15.39%  ",
+          "status": "figma-synced",
+          "charCount": 8
+        },
+        {
+          "id": "2647:19297",
+          "key": "etoroWebinarUploadSuccessToast.AnIncreaseOf0.29FromLastWeek",
+          "value": "    An Increase of     0.29% \n    From last week",
+          "status": "figma-synced",
+          "charCount": 48
+        },
+        {
+          "id": "2647:19310",
+          "key": "etoroWebinarUploadSuccessToast.10.5kFollowers",
+          "value": "10.5K Followers",
+          "status": "figma-synced",
+          "charCount": 15
+        },
+        {
+          "id": "2647:19312",
+          "key": "etoroWebinarUploadSuccessToast.aboutAmazon",
+          "value": "About Amazon",
+          "status": "figma-synced",
+          "charCount": 12
+        },
+        {
+          "id": "2647:19313",
+          "key": "etoroWebinarUploadSuccessToast.amazon.comIncIsAnAmericanMultinationalTechnologyCompanyBasedInSeattleWashingtonThatFocusesOnECommerceCloud...More",
+          "value": "Amazon.com, Inc  is an American multinational technology company based in Seattle, Washington that focuses on e-commerce, cloud... More",
+          "status": "figma-synced",
+          "charCount": 135
+        },
+        {
+          "id": "2647:19316",
+          "key": "etoroWebinarUploadSuccessToast.technology",
+          "value": "Technology",
+          "status": "figma-synced",
+          "charCount": 10
+        },
+        {
+          "id": "2647:19319",
+          "key": "etoroWebinarUploadSuccessToast.eCommerce",
+          "value": "E-Commerce",
+          "status": "figma-synced",
+          "charCount": 10
+        },
+        {
+          "id": "2647:19322",
+          "key": "etoroWebinarUploadSuccessToast.nasdaq",
+          "value": "Nasdaq",
+          "status": "figma-synced",
+          "charCount": 6
+        },
+        {
+          "id": "2647:19327",
+          "key": "etoroWebinarUploadSuccessToast.52",
+          "value": "52 \n",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2647:19328",
+          "key": "etoroWebinarUploadSuccessToast.articles",
+          "value": "ARTICLES",
+          "status": "figma-synced",
+          "charCount": 8
+        },
+        {
+          "id": "2647:19333",
+          "key": "etoroWebinarUploadSuccessToast.AnIncreaseOf0.29FromLastTradingDay",
+          "value": "    An Increase of      0.29% \n    From last trading day",
+          "status": "figma-synced",
+          "charCount": 56
+        },
+        {
+          "id": "2647:19350",
+          "key": "etoroWebinarUploadSuccessToast.34IncreaseComparedToLastWeek",
+          "value": "    34% Increase \ncompared to last week.",
+          "status": "figma-synced",
+          "charCount": 40
+        },
+        {
+          "id": "2647:19357",
+          "key": "etoroWebinarUploadSuccessToast.globalStocksReelOnGloomyFedOutlookAndFearsOfASecond",
+          "value": "Global stocks reel on gloomy Fed outlook and fears of a second ",
+          "status": "figma-synced",
+          "charCount": 63
+        },
+        {
+          "id": "2647:19358",
+          "key": "etoroWebinarUploadSuccessToast.2DaysAgo",
+          "value": "2 days ago",
+          "status": "figma-synced",
+          "charCount": 10
+        },
+        {
+          "id": "2647:19359",
+          "key": "etoroWebinarUploadSuccessToast.cnbc",
+          "value": "CNBC",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2647:19360",
+          "key": "etoroWebinarUploadSuccessToast.cnbc",
+          "value": "CNBC",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2647:19362",
+          "key": "etoroWebinarUploadSuccessToast.globalStocksReelOnGloomyFedOutlookAndFearsOfASecond",
+          "value": "Global stocks reel on gloomy Fed outlook and fears of a second ",
+          "status": "figma-synced",
+          "charCount": 63
+        },
+        {
+          "id": "2647:19363",
+          "key": "etoroWebinarUploadSuccessToast.2DaysAgo",
+          "value": "2 days ago",
+          "status": "figma-synced",
+          "charCount": 10
+        },
+        {
+          "id": "2647:19364",
+          "key": "etoroWebinarUploadSuccessToast.cnbc",
+          "value": "CNBC",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2647:19366",
+          "key": "etoroWebinarUploadSuccessToast.globalStocksReelOnGloomyFedOutlookAndFearsOfASecond",
+          "value": "Global stocks reel on gloomy Fed outlook and fears of a second ",
+          "status": "figma-synced",
+          "charCount": 63
+        },
+        {
+          "id": "2647:19367",
+          "key": "etoroWebinarUploadSuccessToast.2DaysAgo",
+          "value": "2 days ago",
+          "status": "figma-synced",
+          "charCount": 10
+        },
+        {
+          "id": "2647:19377",
+          "key": "etoroWebinarUploadSuccessToast.latestNews",
+          "value": "Latest News",
+          "status": "figma-synced",
+          "charCount": 11
+        },
+        {
+          "id": "2647:19382",
+          "key": "etoroWebinarUploadSuccessToast.poweredBy",
+          "value": "POWERED BY",
+          "status": "figma-synced",
+          "charCount": 10
+        },
+        {
+          "id": "2647:19547",
+          "key": "etoroWebinarUploadSuccessToast.basedOn39AnalystsOfferingRecommendationsForAmznInTheLast3Months",
+          "value": "Based on 39 analysts offering recommendations for AMZN in the last 3 months.",
+          "status": "figma-synced",
+          "charCount": 76
+        },
+        {
+          "id": "2647:19554",
+          "key": "etoroWebinarUploadSuccessToast.analysis",
+          "value": "Analysis",
+          "status": "figma-synced",
+          "charCount": 8
+        },
+        {
+          "id": "2647:19555",
+          "key": "etoroWebinarUploadSuccessToast.strongBuy",
+          "value": "Strong Buy",
+          "status": "figma-synced",
+          "charCount": 10
+        },
+        {
+          "id": "2647:19556",
+          "key": "etoroWebinarUploadSuccessToast.83",
+          "value": "83%",
+          "status": "figma-synced",
+          "charCount": 3
+        },
+        {
+          "id": "2647:19563",
+          "key": "etoroWebinarUploadSuccessToast.low",
+          "value": "Low",
+          "status": "figma-synced",
+          "charCount": 3
+        },
+        {
+          "id": "2647:19564",
+          "key": "etoroWebinarUploadSuccessToast.17",
+          "value": "17",
+          "status": "figma-synced",
+          "charCount": 2
+        },
+        {
+          "id": "2647:19568",
+          "key": "etoroWebinarUploadSuccessToast.esgScore",
+          "value": "ESG Score\n",
+          "status": "figma-synced",
+          "charCount": 10
+        },
+        {
+          "id": "2647:19569",
+          "key": "etoroWebinarUploadSuccessToast.totalEnvironmentSocialAndGovernanceEsgRiskRatingsScoreOfAmznIs17",
+          "value": "Total Environment, Social and Governance (ESG) Risk Ratings\nscore of AMZN is 17.",
+          "status": "figma-synced",
+          "charCount": 80
+        },
+        {
+          "id": "2647:19570",
+          "key": "etoroWebinarUploadSuccessToast.esgDataProvidedBySustainalytics",
+          "value": "ESG data provided by Sustainalytics.\n",
+          "status": "figma-synced",
+          "charCount": 37
+        },
+        {
+          "id": "2647:19585",
+          "key": "etoroWebinarUploadSuccessToast.q22021",
+          "value": "Q2\n2021",
+          "status": "figma-synced",
+          "charCount": 7
+        },
+        {
+          "id": "2647:19586",
+          "key": "etoroWebinarUploadSuccessToast.q42021",
+          "value": "Q4\n2021",
+          "status": "figma-synced",
+          "charCount": 7
+        },
+        {
+          "id": "2647:19587",
+          "key": "etoroWebinarUploadSuccessToast.q32021",
+          "value": "Q3\n2021",
+          "status": "figma-synced",
+          "charCount": 7
+        },
+        {
+          "id": "2647:19590",
+          "key": "etoroWebinarUploadSuccessToast.miss",
+          "value": "Miss",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2647:19594",
+          "key": "etoroWebinarUploadSuccessToast.beat",
+          "value": "Beat",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2647:19596",
+          "key": "etoroWebinarUploadSuccessToast.q12021",
+          "value": "Q1\n2021",
+          "status": "figma-synced",
+          "charCount": 7
+        },
+        {
+          "id": "2647:19599",
+          "key": "etoroWebinarUploadSuccessToast.beat",
+          "value": "Beat",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2647:19601",
+          "key": "etoroWebinarUploadSuccessToast.75b",
+          "value": "75B",
+          "status": "figma-synced",
+          "charCount": 3
+        },
+        {
+          "id": "2647:19602",
+          "key": "etoroWebinarUploadSuccessToast.125b",
+          "value": "125B",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2647:19603",
+          "key": "etoroWebinarUploadSuccessToast.25b",
+          "value": "25B",
+          "status": "figma-synced",
+          "charCount": 3
+        },
+        {
+          "id": "2647:19604",
+          "key": "etoroWebinarUploadSuccessToast.5b",
+          "value": "5B",
+          "status": "figma-synced",
+          "charCount": 2
+        },
+        {
+          "id": "2647:19606",
+          "key": "etoroWebinarUploadSuccessToast.earnings",
+          "value": "Earnings",
+          "status": "figma-synced",
+          "charCount": 8
+        },
+        {
+          "id": "2647:19608",
+          "key": "etoroWebinarUploadSuccessToast.Est.Revenues",
+          "value": " EST . REVENUES",
+          "status": "figma-synced",
+          "charCount": 15
+        },
+        {
+          "id": "2647:19611",
+          "key": "etoroWebinarUploadSuccessToast.actualRevenues",
+          "value": "ACTUAL REVENUES",
+          "status": "figma-synced",
+          "charCount": 15
+        },
+        {
+          "id": "2647:19617",
+          "key": "etoroWebinarUploadSuccessToast.nextEarnings",
+          "value": "Next Earnings",
+          "status": "figma-synced",
+          "charCount": 13
+        },
+        {
+          "id": "2647:19618",
+          "key": "etoroWebinarUploadSuccessToast.16November2021",
+          "value": "16 November, 2021",
+          "status": "figma-synced",
+          "charCount": 17
+        },
+        {
+          "id": "2647:19622",
+          "key": "etoroWebinarUploadSuccessToast.est.Revenues",
+          "value": "Est. Revenues \n",
+          "status": "figma-synced",
+          "charCount": 15
+        },
+        {
+          "id": "2647:19623",
+          "key": "etoroWebinarUploadSuccessToast.121b",
+          "value": "$121B",
+          "status": "figma-synced",
+          "charCount": 5
+        },
+        {
+          "id": "2647:19624",
+          "key": "etoroWebinarUploadSuccessToast.est.Eps",
+          "value": "Est. EPS \n",
+          "status": "figma-synced",
+          "charCount": 10
+        },
+        {
+          "id": "2647:19625",
+          "key": "etoroWebinarUploadSuccessToast.121b",
+          "value": "$121B",
+          "status": "figma-synced",
+          "charCount": 5
+        },
+        {
+          "id": "2647:19636",
+          "key": "etoroWebinarUploadSuccessToast.moreECommerce",
+          "value": "More E-commerce",
+          "status": "figma-synced",
+          "charCount": 15
+        },
+        {
+          "id": "2647:19659",
+          "key": "etoroWebinarUploadSuccessToast.adbe",
+          "value": "ADBE",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2647:19660",
+          "key": "etoroWebinarUploadSuccessToast.adobeSystemsInc",
+          "value": "Adobe Systems inc",
+          "status": "figma-synced",
+          "charCount": 17
+        },
+        {
+          "id": "2647:19661",
+          "key": "etoroWebinarUploadSuccessToast.470.08",
+          "value": "470.08",
+          "status": "figma-synced",
+          "charCount": 6
+        },
+        {
+          "id": "2647:19662",
+          "key": "etoroWebinarUploadSuccessToast.8.031.52",
+          "value": "-8.03 (-1.52%)",
+          "status": "figma-synced",
+          "charCount": 14
+        },
+        {
+          "id": "2647:19683",
+          "key": "etoroWebinarUploadSuccessToast.aapl",
+          "value": "AAPL",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2647:19684",
+          "key": "etoroWebinarUploadSuccessToast.appleInc",
+          "value": "Apple Inc",
+          "status": "figma-synced",
+          "charCount": 9
+        },
+        {
+          "id": "2647:19685",
+          "key": "etoroWebinarUploadSuccessToast.116.18",
+          "value": "116.18",
+          "status": "figma-synced",
+          "charCount": 6
+        },
+        {
+          "id": "2647:19686",
+          "key": "etoroWebinarUploadSuccessToast.1.130.98",
+          "value": "1.13 (0.98%)",
+          "status": "figma-synced",
+          "charCount": 12
+        },
+        {
+          "id": "2647:19707",
+          "key": "etoroWebinarUploadSuccessToast.aapl",
+          "value": "AAPL",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2647:19708",
+          "key": "etoroWebinarUploadSuccessToast.appleInc",
+          "value": "Apple Inc",
+          "status": "figma-synced",
+          "charCount": 9
+        },
+        {
+          "id": "2647:19709",
+          "key": "etoroWebinarUploadSuccessToast.116.18",
+          "value": "116.18",
+          "status": "figma-synced",
+          "charCount": 6
+        },
+        {
+          "id": "2647:19710",
+          "key": "etoroWebinarUploadSuccessToast.1.130.98",
+          "value": "1.13 (0.98%)",
+          "status": "figma-synced",
+          "charCount": 12
+        },
+        {
+          "id": "2647:19721",
+          "key": "etoroWebinarUploadSuccessToast.12",
+          "value": "12",
+          "status": "figma-synced",
+          "charCount": 2
+        },
+        {
+          "id": "2647:19722",
+          "key": "etoroWebinarUploadSuccessToast.3",
+          "value": "3",
+          "status": "figma-synced",
+          "charCount": 1
+        },
+        {
+          "id": "2647:19724",
+          "key": "etoroWebinarUploadSuccessToast.23",
+          "value": "23",
+          "status": "figma-synced",
+          "charCount": 2
+        },
+        {
+          "id": "2647:19726",
+          "key": "etoroWebinarUploadSuccessToast.comment",
+          "value": "Comment",
+          "status": "figma-synced",
+          "charCount": 7
+        },
+        {
+          "id": "2647:19727",
+          "key": "etoroWebinarUploadSuccessToast.like",
+          "value": "Like",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2647:19728",
+          "key": "etoroWebinarUploadSuccessToast.share",
+          "value": "Share",
+          "status": "figma-synced",
+          "charCount": 5
+        },
+        {
+          "id": "2647:19735",
+          "key": "etoroWebinarUploadSuccessToast.Davidgun",
+          "value": "@Davidgun",
+          "status": "figma-synced",
+          "charCount": 9
+        },
+        {
+          "id": "2647:19736",
+          "key": "etoroWebinarUploadSuccessToast.germany",
+          "value": "Germany",
+          "status": "figma-synced",
+          "charCount": 7
+        },
+        {
+          "id": "2647:19738",
+          "key": "etoroWebinarUploadSuccessToast.13DaysAgo",
+          "value": "13 days ago",
+          "status": "figma-synced",
+          "charCount": 11
+        },
+        {
+          "id": "2647:19739",
+          "key": "etoroWebinarUploadSuccessToast.atLeastWeKnowWhatIsHappeningCheckThisOut",
+          "value": "At least we know what is happening… \ncheck this out 👇",
+          "status": "figma-synced",
+          "charCount": 54
+        },
+        {
+          "id": "2647:19741",
+          "key": "etoroWebinarUploadSuccessToast.www.wsj.com",
+          "value": "www.wsj.com",
+          "status": "figma-synced",
+          "charCount": 11
+        },
+        {
+          "id": "2647:19742",
+          "key": "etoroWebinarUploadSuccessToast.theRealReasonForTheStockMarketS2PlungeShouldnTSurpriseYouAndItHappensEveryTime",
+          "value": "The real reason for the stock market’s 2% plunge shouldn’t surprise you — and it happens every time",
+          "status": "figma-synced",
+          "charCount": 99
+        },
+        {
+          "id": "2647:19743",
+          "key": "etoroWebinarUploadSuccessToast.amazonDrops2AfterRecall",
+          "value": "Amazon drops 2% after recall",
+          "status": "figma-synced",
+          "charCount": 28
+        },
+        {
+          "id": "2647:19766",
+          "key": "etoroWebinarUploadSuccessToast.Scmorton",
+          "value": "@Scmorton",
+          "status": "figma-synced",
+          "charCount": 9
+        },
+        {
+          "id": "2647:19767",
+          "key": "etoroWebinarUploadSuccessToast.unitedKingdom",
+          "value": "United Kingdom",
+          "status": "figma-synced",
+          "charCount": 14
+        },
+        {
+          "id": "2647:19769",
+          "key": "etoroWebinarUploadSuccessToast.2HoursAgo",
+          "value": "2 hours ago",
+          "status": "figma-synced",
+          "charCount": 11
+        },
+        {
+          "id": "2647:19770",
+          "key": "etoroWebinarUploadSuccessToast.guyWeveReachedNextLevelBuyingFeverInU.sStock",
+          "value": "Guy, weve reached next-level buying fever \nin U.S stock!",
+          "status": "figma-synced",
+          "charCount": 56
+        },
+        {
+          "id": "2647:19775",
+          "key": "etoroWebinarUploadSuccessToast.12",
+          "value": "12",
+          "status": "figma-synced",
+          "charCount": 2
+        },
+        {
+          "id": "2647:19776",
+          "key": "etoroWebinarUploadSuccessToast.3",
+          "value": "3",
+          "status": "figma-synced",
+          "charCount": 1
+        },
+        {
+          "id": "2647:19778",
+          "key": "etoroWebinarUploadSuccessToast.23",
+          "value": "23",
+          "status": "figma-synced",
+          "charCount": 2
+        },
+        {
+          "id": "2647:19780",
+          "key": "etoroWebinarUploadSuccessToast.comment",
+          "value": "Comment",
+          "status": "figma-synced",
+          "charCount": 7
+        },
+        {
+          "id": "2647:19781",
+          "key": "etoroWebinarUploadSuccessToast.like",
+          "value": "Like",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2647:19782",
+          "key": "etoroWebinarUploadSuccessToast.share",
+          "value": "Share",
+          "status": "figma-synced",
+          "charCount": 5
+        },
+        {
+          "id": "2647:19785",
+          "key": "etoroWebinarUploadSuccessToast.performance",
+          "value": "Performance",
+          "status": "figma-synced",
+          "charCount": 11
+        },
+        {
+          "id": "2647:19788",
+          "key": "etoroWebinarUploadSuccessToast.all",
+          "value": "All",
+          "status": "figma-synced",
+          "charCount": 3
+        },
+        {
+          "id": "2647:19792",
+          "key": "etoroWebinarUploadSuccessToast.0",
+          "value": "0%",
+          "status": "figma-synced",
+          "charCount": 2
+        },
+        {
+          "id": "2647:19793",
+          "key": "etoroWebinarUploadSuccessToast.10.5",
+          "value": "10.5%",
+          "status": "figma-synced",
+          "charCount": 5
+        },
+        {
+          "id": "2647:19794",
+          "key": "etoroWebinarUploadSuccessToast.10.5",
+          "value": "-10.5%",
+          "status": "figma-synced",
+          "charCount": 6
+        },
+        {
+          "id": "2647:19796",
+          "key": "etoroWebinarUploadSuccessToast.13",
+          "value": "13’",
+          "status": "figma-synced",
+          "charCount": 3
+        },
+        {
+          "id": "2647:19797",
+          "key": "etoroWebinarUploadSuccessToast.14",
+          "value": "14’",
+          "status": "figma-synced",
+          "charCount": 3
+        },
+        {
+          "id": "2647:19798",
+          "key": "etoroWebinarUploadSuccessToast.15",
+          "value": "15’",
+          "status": "figma-synced",
+          "charCount": 3
+        },
+        {
+          "id": "2647:19799",
+          "key": "etoroWebinarUploadSuccessToast.16",
+          "value": "16’",
+          "status": "figma-synced",
+          "charCount": 3
+        },
+        {
+          "id": "2647:19800",
+          "key": "etoroWebinarUploadSuccessToast.17",
+          "value": "17’",
+          "status": "figma-synced",
+          "charCount": 3
+        },
+        {
+          "id": "2647:19801",
+          "key": "etoroWebinarUploadSuccessToast.18",
+          "value": "18’",
+          "status": "figma-synced",
+          "charCount": 3
+        },
+        {
+          "id": "2647:19802",
+          "key": "etoroWebinarUploadSuccessToast.19",
+          "value": "19’",
+          "status": "figma-synced",
+          "charCount": 3
+        },
+        {
+          "id": "2647:19803",
+          "key": "etoroWebinarUploadSuccessToast.20",
+          "value": "20’",
+          "status": "figma-synced",
+          "charCount": 3
+        },
+        {
+          "id": "2647:19804",
+          "key": "etoroWebinarUploadSuccessToast.21",
+          "value": "21’",
+          "status": "figma-synced",
+          "charCount": 3
+        },
+        {
+          "id": "2647:19805",
+          "key": "etoroWebinarUploadSuccessToast.22",
+          "value": "22’",
+          "status": "figma-synced",
+          "charCount": 3
+        },
+        {
+          "id": "2647:19862",
+          "key": "etoroWebinarUploadSuccessToast.upcomingLiveEvents",
+          "value": "Upcoming Live Events",
+          "status": "figma-synced",
+          "charCount": 20
+        },
+        {
+          "id": "2647:19864",
+          "key": "etoroWebinarUploadSuccessToast.new",
+          "value": "New",
+          "status": "figma-synced",
+          "charCount": 3
+        },
+        {
+          "id": "2647:19876",
+          "key": "etoroWebinarUploadSuccessToast.johnDoe",
+          "value": "John Doe",
+          "status": "figma-synced",
+          "charCount": 8
+        },
+        {
+          "id": "2647:19878",
+          "key": "etoroWebinarUploadSuccessToast.futureTrendsToWatchInTheWorldOfCryptocurrency",
+          "value": "Future Trends to Watch in the\nWorld of Cryptocurrency",
+          "status": "figma-synced",
+          "charCount": 53
+        },
+        {
+          "id": "2647:19882",
+          "key": "etoroWebinarUploadSuccessToast.riskManagement",
+          "value": "Risk Management",
+          "status": "figma-synced",
+          "charCount": 15
+        },
+        {
+          "id": "2647:19884",
+          "key": "etoroWebinarUploadSuccessToast.english",
+          "value": "English",
+          "status": "figma-synced",
+          "charCount": 7
+        },
+        {
+          "id": "2647:19887",
+          "key": "etoroWebinarUploadSuccessToast.in5Days",
+          "value": "In 5 Days",
+          "status": "figma-synced",
+          "charCount": 9
+        },
+        {
+          "id": "2647:19896",
+          "key": "etoroWebinarUploadSuccessToast.nov15Wednesday",
+          "value": "Nov 15, Wednesday",
+          "status": "figma-synced",
+          "charCount": 17
+        },
+        {
+          "id": "2647:19900",
+          "key": "etoroWebinarUploadSuccessToast.11Am45Min",
+          "value": "11 AM (45 Min) ",
+          "status": "figma-synced",
+          "charCount": 15
+        },
+        {
+          "id": "2647:19903",
+          "key": "etoroWebinarUploadSuccessToast.share",
+          "value": "Share",
+          "status": "figma-synced",
+          "charCount": 5
+        },
+        {
+          "id": "2647:19914",
+          "key": "etoroWebinarUploadSuccessToast.aboutMelissab",
+          "value": "About Melissab",
+          "status": "figma-synced",
+          "charCount": 14
+        },
+        {
+          "id": "2647:19919",
+          "key": "etoroWebinarUploadSuccessToast.edit",
+          "value": "Edit",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2647:19922",
+          "key": "etoroWebinarUploadSuccessToast.unitedKingdom",
+          "value": "United Kingdom",
+          "status": "figma-synced",
+          "charCount": 14
+        },
+        {
+          "id": "2647:19929",
+          "key": "etoroWebinarUploadSuccessToast.videoBio",
+          "value": "Video Bio",
+          "status": "figma-synced",
+          "charCount": 9
+        },
+        {
+          "id": "2647:19931",
+          "key": "etoroWebinarUploadSuccessToast.new",
+          "value": "New",
+          "status": "figma-synced",
+          "charCount": 3
+        },
+        {
+          "id": "2647:19932",
+          "key": "etoroWebinarUploadSuccessToast.showPotentialCopiersWhoYouAreAndHighlightYourQualificationsWithAVideoBio",
+          "value": "Show potential copiers who you are and highlight your qualifications with a video bio.",
+          "status": "figma-synced",
+          "charCount": 86
+        },
+        {
+          "id": "2647:19937",
+          "key": "etoroWebinarUploadSuccessToast.addAVideo",
+          "value": "Add a Video",
+          "status": "figma-synced",
+          "charCount": 11
+        },
+        {
+          "id": "2647:19941",
+          "key": "etoroWebinarUploadSuccessToast.popularInvestorAveraging21P.a.Since2018",
+          "value": "Popular Investor averaging 21% p.a. since 2018",
+          "status": "figma-synced",
+          "charCount": 46
+        },
+        {
+          "id": "2647:19942",
+          "key": "etoroWebinarUploadSuccessToast.showFullBio",
+          "value": "Show Full Bio",
+          "status": "figma-synced",
+          "charCount": 13
+        },
+        {
+          "id": "2647:19949",
+          "key": "etoroWebinarUploadSuccessToast.Itsmaor",
+          "value": "@Itsmaor",
+          "status": "figma-synced",
+          "charCount": 8
+        },
+        {
+          "id": "2647:19956",
+          "key": "etoroWebinarUploadSuccessToast.Itsmaor",
+          "value": "@Itsmaor",
+          "status": "figma-synced",
+          "charCount": 8
+        },
+        {
+          "id": "2647:19962",
+          "key": "etoroWebinarUploadSuccessToast.55k",
+          "value": "55k",
+          "status": "figma-synced",
+          "charCount": 3
+        },
+        {
+          "id": "2647:19963",
+          "key": "etoroWebinarUploadSuccessToast.copiers",
+          "value": "Copiers",
+          "status": "figma-synced",
+          "charCount": 7
+        },
+        {
+          "id": "2647:19967",
+          "key": "etoroWebinarUploadSuccessToast.155.8k",
+          "value": "155.8k",
+          "status": "figma-synced",
+          "charCount": 6
+        },
+        {
+          "id": "2647:19968",
+          "key": "etoroWebinarUploadSuccessToast.followers",
+          "value": "Followers",
+          "status": "figma-synced",
+          "charCount": 9
+        },
+        {
+          "id": "2647:18433",
+          "key": "etoroWebinarUploadSuccessToast.home",
+          "value": "Home",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2647:18439",
+          "key": "etoroWebinarUploadSuccessToast.watchlist",
+          "value": "Watchlist",
+          "status": "figma-synced",
+          "charCount": 9
+        },
+        {
+          "id": "2647:18450",
+          "key": "etoroWebinarUploadSuccessToast.portfolio",
+          "value": "Portfolio",
+          "status": "figma-synced",
+          "charCount": 9
+        },
+        {
+          "id": "2647:18457",
+          "key": "etoroWebinarUploadSuccessToast.discover",
+          "value": "Discover",
+          "status": "figma-synced",
+          "charCount": 8
+        },
+        {
+          "id": "2647:18464",
+          "key": "etoroWebinarUploadSuccessToast.wallet",
+          "value": "Wallet",
+          "status": "figma-synced",
+          "charCount": 6
+        },
+        {
+          "id": "2647:18475",
+          "key": "etoroWebinarUploadSuccessToast.home",
+          "value": "Home",
+          "status": "figma-synced",
+          "charCount": 4
+        },
+        {
+          "id": "2647:18481",
+          "key": "etoroWebinarUploadSuccessToast.watchlist",
+          "value": "Watchlist",
+          "status": "figma-synced",
+          "charCount": 9
+        },
+        {
+          "id": "2647:18492",
+          "key": "etoroWebinarUploadSuccessToast.portfolio",
+          "value": "Portfolio",
+          "status": "figma-synced",
+          "charCount": 9
+        },
+        {
+          "id": "2647:18499",
+          "key": "etoroWebinarUploadSuccessToast.discover",
+          "value": "Discover",
+          "status": "figma-synced",
+          "charCount": 8
+        },
+        {
+          "id": "2647:18506",
+          "key": "etoroWebinarUploadSuccessToast.wallet",
+          "value": "Wallet",
+          "status": "figma-synced",
+          "charCount": 6
+        },
+        {
+          "id": "2647:18520",
+          "key": "etoroWebinarUploadSuccessToast.yourWebinarHasBeenUpdated",
+          "value": "Your Webinar has been updated!",
+          "status": "figma-synced",
+          "charCount": 30
+        }
+      ],
+      "lastUpdate": "2025-09-17T10:10:03.833Z",
+      "imageUrl": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/edce9c67-5b49-480f-a127-4c632ad4ea84"
+    }
+  ]
+}
