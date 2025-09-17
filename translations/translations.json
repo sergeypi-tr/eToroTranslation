@@ -1,6 +1,22 @@
 {
-  "Key": "123",
-  "Translation instructions": "123wqe4",
-  "Characters limits": "3333",
-  "Text to translate": "44wqe444"
+  "translations": [
+    {
+      "Key": "12w3",
+      "Translation instructions": "12we34",
+      "Characters limits": "3333",
+      "Text to translate": "44444"
+    },
+    {
+      "Key": "12e3",
+      "Translation instructions": "123qw4",
+      "Characters limits": "3333",
+      "Text to translate": "44444"
+    },
+    {
+      "Key": "123",
+      "Translation instructions": "123wqe4",
+      "Characters limits": "3333",
+      "Text to translate": "44wqe444"
+    }
+  ]
 }
