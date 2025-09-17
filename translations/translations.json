@@ -1,9 +1,9 @@
 {
   "translations": [
     {
-      "Key": "etoroWebinarUploadSuccessToast.discover",
-      "Text to translate": "DISCOVER",
-      "Characters limits": 8
+      "Key": "etoroWebinarUploadSuccessToast.newsFeed",
+      "Text to translate": "NEWS FEED",
+      "Characters limits": 9
     }
   ]
 }
